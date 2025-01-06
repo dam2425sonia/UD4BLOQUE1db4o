@@ -25,11 +25,10 @@ public class Jefe {
     void DatosJefe() {
         System.out.println("\n"+nombre+ " tiene " +edad+ " años, lleva "+antiguedad+" años en la empresa"); 
     }
+
     void cumpleAños ()
     {
         edad++;
     }
-
-   
     
 }
